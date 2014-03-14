@@ -1,7 +1,7 @@
 #Meteor.js on OpenShift
 Deploy [meteor.js](http://meteor.com/) application bundles on [OpenShift](http://openshift.com/)
 
-<a href='https://openshift.redhat.com/community/blogs/cloudy-with-a-chance-of-meteorjs'><img src='https://openshift.redhat.com/community/sites/default/files/meteorshift_1.png'/></a>
+<a href='https://www.openshift.com/blogs/cloudy-with-a-chance-of-meteorjs'><img src='https://www.openshift.com/sites/default/files/meteorshift_1.png'/></a>
 
 If this is your first time using [OpenShift Online](http://openshift.com/) or [Meteor](http://meteor.com/), skip down to the "[Basic Setup Notes](https://github.com/openshift-quickstart/openshift-meteorjs-quickstart#basic-setup-notes)" below.
 
@@ -66,7 +66,7 @@ In this quickstart guide, we'll be using OpenShift Online to host our applicatio
 
 Sign up for an account at http://openshift.redhat.com/app/account/new
 
-If you don't already have the `rhc` [(Red Hat Cloud) command-line tools](https://openshift.redhat.com/community/get-started#cli), install them:
+If you don't already have the `rhc` [(Red Hat Cloud) command-line tools](https://www.openshift.com/get-started#cli), install them:
 
     sudo gem install rhc
 
@@ -74,4 +74,4 @@ You'll need to run `rhc setup` to link your OpenShift Online account with your l
 
     rhc setup
 
-If you need any additional assistance setting up `rhc`, this doc may come in handy: https://openshift.redhat.com/community/developers/rhc-client-tools-install
+If you need any additional assistance setting up `rhc`, this doc may come in handy: https://www.openshift.com/developers/rhc-client-tools-install
