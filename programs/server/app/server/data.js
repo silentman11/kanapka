@@ -7,9 +7,9 @@ Meteor.publish("Deliverers", function () {
   return Deliverers.find({
     $or: [{ $and: [{ owner: { $exists: true } }] }, { $and: [{ owner: this.userId }, { owner: { $exists: true } }] }] });
 });
-Meteor.publish("Message", function () {
+Meteor.publish("Messages", function () {
   return Messages.find({
-    $or: [{ $and: [{ "location": { $exists: true } }] }, { $and: [{ "owner": this.userId }, { "owner": { $exists: true } }] }] });
+    $or: [{ $and: [{ "localization": { $exists: true } }] }, { $and: [{ "owner": this.userId }, { "owner": { $exists: true } }] }] });
 });
 }).call(this);
 

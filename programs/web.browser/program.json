@@ -2,13 +2,13 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "25e4a465d7b3cd56959e27add1733d87c74defd6.js",
+      "path": "4bab4520eb6f40b55ca2daff96c2ab48fc364716.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/25e4a465d7b3cd56959e27add1733d87c74defd6.js?meteor_js_resource=true",
-      "size": 1417566,
-      "hash": "25e4a465d7b3cd56959e27add1733d87c74defd6"
+      "url": "/4bab4520eb6f40b55ca2daff96c2ab48fc364716.js?meteor_js_resource=true",
+      "size": 1418167,
+      "hash": "4bab4520eb6f40b55ca2daff96c2ab48fc364716"
     },
     {
       "path": "6ad04f75efc025b5346a5bbeacf8ea2fca70c688.css",
@@ -20,22 +20,13 @@
       "hash": "6ad04f75efc025b5346a5bbeacf8ea2fca70c688"
     },
     {
-      "path": "7c6a6619f4d3fee798947e7208c017eba717e305.css",
+      "path": "642ddf7ee4a40ab465c4fa3b691fead04ff07a8f.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/7c6a6619f4d3fee798947e7208c017eba717e305.css?meteor_css_resource=true",
-      "size": 222395,
-      "hash": "7c6a6619f4d3fee798947e7208c017eba717e305"
-    },
-    {
-      "path": "ace75fa21ea82fc925455ddcf1cde1420976b24c.css",
-      "where": "client",
-      "type": "css",
-      "cacheable": true,
-      "url": "/ace75fa21ea82fc925455ddcf1cde1420976b24c.css?meteor_css_resource=true",
-      "size": 2207,
-      "hash": "ace75fa21ea82fc925455ddcf1cde1420976b24c"
+      "url": "/642ddf7ee4a40ab465c4fa3b691fead04ff07a8f.css?meteor_css_resource=true",
+      "size": 223269,
+      "hash": "642ddf7ee4a40ab465c4fa3b691fead04ff07a8f"
     },
     {
       "path": "packages/materialize_materialize/dist/font/material-design-icons/Material-Design-Icons.eot",
@@ -594,6 +585,15 @@
       "url": "/images/sii-logo.png",
       "size": 13316,
       "hash": "dec08f25e9f8bcc5358e650bff751145ce57fbea"
+    },
+    {
+      "path": "app/images/siilogo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/siilogo.png",
+      "size": 30102,
+      "hash": "2d7c61f434aaafef7f0493fb7d8c444b95daa46c"
     },
     {
       "path": "app/sounds/a.mp3",
