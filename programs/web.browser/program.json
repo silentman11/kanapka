@@ -2,31 +2,40 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "a50af8e93525a041b35ea0e50bcfa2488a9cb5cc.js",
+      "path": "088370c4332fe2321bec148538c988ce1699823e.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/a50af8e93525a041b35ea0e50bcfa2488a9cb5cc.js?meteor_js_resource=true",
-      "size": 1418378,
-      "hash": "a50af8e93525a041b35ea0e50bcfa2488a9cb5cc"
+      "url": "/088370c4332fe2321bec148538c988ce1699823e.js?meteor_js_resource=true",
+      "size": 1481464,
+      "hash": "088370c4332fe2321bec148538c988ce1699823e"
     },
     {
-      "path": "6ad04f75efc025b5346a5bbeacf8ea2fca70c688.css",
+      "path": "a70a0cc1969bb1db94a00f0219635cf52de866f9.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/6ad04f75efc025b5346a5bbeacf8ea2fca70c688.css?meteor_css_resource=true",
-      "size": 343041,
-      "hash": "6ad04f75efc025b5346a5bbeacf8ea2fca70c688"
+      "url": "/a70a0cc1969bb1db94a00f0219635cf52de866f9.css?meteor_css_resource=true",
+      "size": 301848,
+      "hash": "a70a0cc1969bb1db94a00f0219635cf52de866f9"
     },
     {
-      "path": "642ddf7ee4a40ab465c4fa3b691fead04ff07a8f.css",
+      "path": "c768f5dc5a7c2cbade65cca4752fd810b547b6c7.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/642ddf7ee4a40ab465c4fa3b691fead04ff07a8f.css?meteor_css_resource=true",
-      "size": 223269,
-      "hash": "642ddf7ee4a40ab465c4fa3b691fead04ff07a8f"
+      "url": "/c768f5dc5a7c2cbade65cca4752fd810b547b6c7.css?meteor_css_resource=true",
+      "size": 280043,
+      "hash": "c768f5dc5a7c2cbade65cca4752fd810b547b6c7"
+    },
+    {
+      "path": "394ffdee56eb1c8f55301435548bd94ee11a6614.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/394ffdee56eb1c8f55301435548bd94ee11a6614.css?meteor_css_resource=true",
+      "size": 79061,
+      "hash": "394ffdee56eb1c8f55301435548bd94ee11a6614"
     },
     {
       "path": "packages/materialize_materialize/dist/font/material-design-icons/Material-Design-Icons.eot",
@@ -254,33 +263,6 @@
       "hash": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
     },
     {
-      "path": "app/images/ic_account_box_black_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_account_box_black_36px.svg",
-      "size": 340,
-      "hash": "f04ec5cfeabe0a775f6cb9f8a9c7fc1d737a3e86"
-    },
-    {
-      "path": "app/images/ic_account_box_white_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_account_box_white_36px.svg",
-      "size": 340,
-      "hash": "807590bf4007b07e1ee82ec6c6f4b1cac9678ea3"
-    },
-    {
-      "path": "app/images/ic_add_black_24px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_add_black_24px.svg",
-      "size": 199,
-      "hash": "5c8c9bc8d2fbef13efbb1a630b3eed1023d4fed9"
-    },
-    {
       "path": "app/images/ic_add_circle_outline_black_36px.svg",
       "where": "client",
       "type": "asset",
@@ -297,15 +279,6 @@
       "url": "/images/ic_add_circle_outline_white_36px.svg",
       "size": 322,
       "hash": "3651ecd87018bf9b717f9693fff6e45b6311b51e"
-    },
-    {
-      "path": "app/images/ic_add_location_black_24px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_add_location_black_24px.svg",
-      "size": 269,
-      "hash": "1c73f471f372558f4e200ddef3b858872b4787e1"
     },
     {
       "path": "app/images/ic_add_location_white_24px.svg",
@@ -389,33 +362,6 @@
       "hash": "fe5f6408729cae2c2fad278f9af6600f400e508e"
     },
     {
-      "path": "app/images/ic_do_not_disturb_black_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_do_not_disturb_black_36px.svg",
-      "size": 402,
-      "hash": "ed2b832f8820ecff62ed96fa61f32d2685d64a39"
-    },
-    {
-      "path": "app/images/ic_do_not_disturb_white_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_do_not_disturb_white_36px.svg",
-      "size": 402,
-      "hash": "6ad7f2a0ae1450a6dbb4a647b99bd62d00ba2682"
-    },
-    {
-      "path": "app/images/ic_done_black_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_done_black_36px.svg",
-      "size": 214,
-      "hash": "88ff5b5f1c17cbc7c0d1ae7ecc6efcbf8b9cdece"
-    },
-    {
       "path": "app/images/ic_done_white_36px.svg",
       "where": "client",
       "type": "asset",
@@ -423,24 +369,6 @@
       "url": "/images/ic_done_white_36px.svg",
       "size": 214,
       "hash": "e30de9ff9bf0b936854384dbde27c1ee78a0dece"
-    },
-    {
-      "path": "app/images/ic_error_outline_black_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_error_outline_black_36px.svg",
-      "size": 333,
-      "hash": "68169bf46f3689c553eb9bedd0c2e1ad2658b62d"
-    },
-    {
-      "path": "app/images/ic_error_outline_white_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_error_outline_white_36px.svg",
-      "size": 333,
-      "hash": "5f566c44c279fe149abf51dc8eeb13e6fb1445dd"
     },
     {
       "path": "app/images/ic_highlight_off_black_36px.svg",
@@ -497,33 +425,6 @@
       "hash": "26b671382000543fb097c7504b378b31afc367c5"
     },
     {
-      "path": "app/images/ic_remove_circle_outline_black_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_remove_circle_outline_black_36px.svg",
-      "size": 303,
-      "hash": "dabefe1caf4b8814062d31a204b28c0a89fda9a9"
-    },
-    {
-      "path": "app/images/ic_remove_circle_outline_white_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_remove_circle_outline_white_36px.svg",
-      "size": 303,
-      "hash": "b318b111851848e487cf762d846eef01f1a5b7f2"
-    },
-    {
-      "path": "app/images/ic_replay_black_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_replay_black_36px.svg",
-      "size": 265,
-      "hash": "66a4f91259aaa97fcb235f00d7ed97c334277aca"
-    },
-    {
       "path": "app/images/ic_replay_white_36px.svg",
       "where": "client",
       "type": "asset",
@@ -533,40 +434,13 @@
       "hash": "f10f893239429acedb0a26122578dfd481d7b8b5"
     },
     {
-      "path": "app/images/ic_room_black_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_room_black_36px.svg",
-      "size": 318,
-      "hash": "131681e2858eac68871e37e19861cfb752942969"
-    },
-    {
-      "path": "app/images/ic_room_white_36px.svg",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/ic_room_white_36px.svg",
-      "size": 318,
-      "hash": "21804ea02bdb497818f9fc068c2e681a731c02bf"
-    },
-    {
       "path": "app/images/kanap.png",
       "where": "client",
       "type": "asset",
       "cacheable": false,
       "url": "/images/kanap.png",
-      "size": 79488,
-      "hash": "066fe3237717dfb0ab2b2718edbdd9dbaf1f6a15"
-    },
-    {
-      "path": "app/images/koku.png",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/koku.png",
-      "size": 21305,
-      "hash": "b45f63f83c74f3ef915491b9aa6bb59ac08ce7a7"
+      "size": 4347,
+      "hash": "acb019f842f1aa3256d9c469b9bd7b56afefaac7"
     },
     {
       "path": "app/images/lobst.png",
@@ -574,8 +448,8 @@
       "type": "asset",
       "cacheable": false,
       "url": "/images/lobst.png",
-      "size": 30102,
-      "hash": "2d7c61f434aaafef7f0493fb7d8c444b95daa46c"
+      "size": 1586,
+      "hash": "979e1a06dc2bb1d25c1cdaef8c4ad3f9ce7e8e4c"
     },
     {
       "path": "app/images/sii-logo.png",
@@ -583,17 +457,8 @@
       "type": "asset",
       "cacheable": false,
       "url": "/images/sii-logo.png",
-      "size": 13316,
-      "hash": "dec08f25e9f8bcc5358e650bff751145ce57fbea"
-    },
-    {
-      "path": "app/images/siilogo.png",
-      "where": "client",
-      "type": "asset",
-      "cacheable": false,
-      "url": "/images/siilogo.png",
-      "size": 30102,
-      "hash": "2d7c61f434aaafef7f0493fb7d8c444b95daa46c"
+      "size": 6387,
+      "hash": "f3edeb1a2db8e296625f8517db066af70b8b92b6"
     },
     {
       "path": "app/sounds/a.mp3",
@@ -605,10 +470,19 @@
       "hash": "8f858e415194174a325eb32eb8b9f69a1e78e64a"
     },
     {
+      "path": "app/sounds/a.wav",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sounds/a.wav",
+      "size": 350320,
+      "hash": "3633e548453161bf17c5ef340f99085c539b6c50"
+    },
+    {
       "path": "head.html",
       "where": "internal",
       "type": "head",
-      "hash": "dda1511bf5a03ccc29e804375ee49a40fc956b60"
+      "hash": "419dfc1e5c1e65ad90e18b26651b1ed31f5a6385"
     },
     {
       "path": "body.html",

@@ -13,8 +13,15 @@ var Match = Package.check.Match;
 var LocalCollection = Package.minimongo.LocalCollection;
 var Minimongo = Package.minimongo.Minimongo;
 var ObserveSequence = Package['observe-sequence'].ObserveSequence;
+var ECMAScript = Package.ecmascript.ECMAScript;
+var ReactiveVar = Package['reactive-var'].ReactiveVar;
 var DiffSequence = Package['diff-sequence'].DiffSequence;
 var MongoID = Package['mongo-id'].MongoID;
+var babelHelpers = Package['babel-runtime'].babelHelpers;
+var Symbol = Package['ecmascript-runtime'].Symbol;
+var Map = Package['ecmascript-runtime'].Map;
+var Set = Package['ecmascript-runtime'].Set;
+var Promise = Package.promise.Promise;
 
 
 

@@ -225,16 +225,8 @@
       "path": "packages/flyandi_reactive-countdown.js"
     },
     {
-      "sourceMap": "packages/angular_angular-material.js.map",
-      "path": "packages/angular_angular-material.js"
-    },
-    {
       "sourceMap": "packages/momentjs_moment.js.map",
       "path": "packages/momentjs_moment.js"
-    },
-    {
-      "sourceMap": "packages/angularui_angular-ui-bootstrap.js.map",
-      "path": "packages/angularui_angular-ui-bootstrap.js"
     },
     {
       "sourceMap": "packages/coffeescript.js.map",
@@ -260,10 +252,6 @@
     {
       "sourceMap": "packages/materialize_materialize.js.map",
       "path": "packages/materialize_materialize.js"
-    },
-    {
-      "sourceMap": "packages/twbs_bootstrap.js.map",
-      "path": "packages/twbs_bootstrap.js"
     },
     {
       "node_modules": "npm/npm-bcrypt/node_modules",
@@ -316,16 +304,24 @@
       "path": "packages/mrt_later.js"
     },
     {
-      "sourceMap": "packages/livedata.js.map",
-      "path": "packages/livedata.js"
+      "sourceMap": "packages/angular_angular-material.js.map",
+      "path": "packages/angular_angular-material.js"
     },
     {
-      "sourceMap": "packages/hot-code-push.js.map",
-      "path": "packages/hot-code-push.js"
+      "sourceMap": "packages/lai_collection-extensions.js.map",
+      "path": "packages/lai_collection-extensions.js"
     },
     {
-      "sourceMap": "packages/launch-screen.js.map",
-      "path": "packages/launch-screen.js"
+      "sourceMap": "packages/angularui_angular-ui-bootstrap.js.map",
+      "path": "packages/angularui_angular-ui-bootstrap.js"
+    },
+    {
+      "sourceMap": "packages/twbs_bootstrap.js.map",
+      "path": "packages/twbs_bootstrap.js"
+    },
+    {
+      "sourceMap": "packages/benjamine_jsondiffpatch.js.map",
+      "path": "packages/benjamine_jsondiffpatch.js"
     },
     {
       "sourceMap": "packages/angular-meteor-data.js.map",
@@ -338,6 +334,18 @@
     {
       "sourceMap": "packages/pbastowski_angular-babel.js.map",
       "path": "packages/pbastowski_angular-babel.js"
+    },
+    {
+      "sourceMap": "packages/livedata.js.map",
+      "path": "packages/livedata.js"
+    },
+    {
+      "sourceMap": "packages/hot-code-push.js.map",
+      "path": "packages/hot-code-push.js"
+    },
+    {
+      "sourceMap": "packages/launch-screen.js.map",
+      "path": "packages/launch-screen.js"
     },
     {
       "sourceMap": "packages/accounts-ui.js.map",

@@ -9,6 +9,7 @@ moment = Package['momentjs:moment'].moment;
 BUZZ = Package['brentjanderson:buzz'].BUZZ;
 SyncedCron = Package['percolate:synced-cron'].SyncedCron;
 later = Package['mrt:later'].later;
+CollectionExtensions = Package['lai:collection-extensions'].CollectionExtensions;
 Meteor = Package.meteor.Meteor;
 WebApp = Package.webapp.WebApp;
 main = Package.webapp.main;
