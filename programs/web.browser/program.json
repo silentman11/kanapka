@@ -2,13 +2,13 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "1032f4e0e2c183ffde6676a38031b7720604fe1b.js",
+      "path": "7596f6458ff4e9cff41fccc23f1267c53a236ac3.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/1032f4e0e2c183ffde6676a38031b7720604fe1b.js?meteor_js_resource=true",
-      "size": 1481967,
-      "hash": "1032f4e0e2c183ffde6676a38031b7720604fe1b"
+      "url": "/7596f6458ff4e9cff41fccc23f1267c53a236ac3.js?meteor_js_resource=true",
+      "size": 1483482,
+      "hash": "7596f6458ff4e9cff41fccc23f1267c53a236ac3"
     },
     {
       "path": "a70a0cc1969bb1db94a00f0219635cf52de866f9.css",
@@ -29,13 +29,13 @@
       "hash": "c768f5dc5a7c2cbade65cca4752fd810b547b6c7"
     },
     {
-      "path": "394ffdee56eb1c8f55301435548bd94ee11a6614.css",
+      "path": "2ea407749f1fc3ae700294c855c7bd49398867fd.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/394ffdee56eb1c8f55301435548bd94ee11a6614.css?meteor_css_resource=true",
-      "size": 79061,
-      "hash": "394ffdee56eb1c8f55301435548bd94ee11a6614"
+      "url": "/2ea407749f1fc3ae700294c855c7bd49398867fd.css?meteor_css_resource=true",
+      "size": 79149,
+      "hash": "2ea407749f1fc3ae700294c855c7bd49398867fd"
     },
     {
       "path": "packages/materialize_materialize/dist/font/material-design-icons/Material-Design-Icons.eot",
