@@ -3,7 +3,7 @@ var fs = require('fs')
 
 // Setup env
 process.env.ROOT_URL = "http://" + process.env.OPENSHIFT_APP_DNS || "localhost";
-process.env.MONGO_URL = (process.env.OPENSHIFT_MONGODB_DB_URL + process.env.OPENSHIFT_APP_NAME) || "mongodb://localhost:27017/meteor";
+process.env.MONGO_URL = (process.env.OPENSHIFT_MONGODB_DB_URL + process.env.OPENSHIFT_APP_NAME) || "mongodb://userV88:w4WR6iDmSfGs7t3n@mongodb/sampledb";
 process.env.PORT = process.env.OPENSHIFT_NODEJS_PORT || 8000;
 process.env.BIND_IP = process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0';
 //for http
